@@ -64,13 +64,13 @@ const SERVICES = {
         {
             date: '2026-01-15',
             title: 'New recycling service begins next month',
-            excerpt: 'From February, you'll be able to recycle food waste in your green bin. Find out what's changing and how to prepare.',
+            excerpt: 'From February, you will be able to recycle food waste in your green bin. Find out what is changing and how to prepare.',
             url: '/news/food-waste-recycling'
         },
         {
             date: '2026-01-10',
-            title: 'Council Tax bills: what's changing',
-            excerpt: 'Your Council Tax bill for 2026/27 will arrive in March. Check what support is available if you're struggling to pay.',
+            title: 'Council Tax bills: what is changing',
+            excerpt: 'Your Council Tax bill for 2026/27 will arrive in March. Check what support is available if you are struggling to pay.',
             url: '/news/council-tax-2026'
         },
         {
