@@ -736,7 +736,7 @@ function updateOnlineStatus() {
     } else {
         status.textContent = 'Offline';
         status.style.color = 'var(--color-warning)';
-        showToast('You're offline', 'Some features may be limited', 'warning');
+        showToast('You are offline', 'Some features may be limited', 'warning');
     }
 }
 
